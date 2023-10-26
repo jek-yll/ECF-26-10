@@ -1,7 +1,7 @@
-# ECF-26-10 _Loïc Gastrin_
+# ECF-26-10 _Loïc Gstrn_
 
 
-### Initialisation du projet ECF-26-10 : 
+### Initialisation et lancement du projet - ECF-26-10 : 
 
 1. Ouvrir le terminal depuis le répertoire app-api puis entrer le commande suivante :
 ``` 
@@ -11,7 +11,7 @@ npm install
 node ./app.js
 ```
 
-2. Ouvrir le terminal depuis le répertoire app-front 
+2. Ouvrir le terminal depuis le répertoire app-front :
 ``` 
 npm install
 ```
