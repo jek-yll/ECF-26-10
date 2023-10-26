@@ -27,7 +27,7 @@ projects.post('/', (req, res) => {
 })
 
 projects.put('/:projectId', (req, res) => {
-    const { id, title, description, startDate, endDate, statut } = req.body
+    const {id, title, description, startDate, endDate, statut } = req.body
 
     if (req.params.projectId != id){
         res.sendStatus(409)
